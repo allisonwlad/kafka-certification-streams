@@ -1,0 +1,7 @@
+.idea
+*.jar
+*.class
+*.zip
+*.tar.gz
+*.iml
+vcs.xml
